@@ -20,3 +20,8 @@ This project provides a command-line tool for Base64 encoding and decoding using
    ```bash
    xmake && ./base_64 -h
 
+## TODO
+
+1. **encoding:**
+   ```bash
+   TODO: correctly encode messages with spaces
